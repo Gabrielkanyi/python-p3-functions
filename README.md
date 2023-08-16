@@ -41,10 +41,7 @@ the difference between Python functions and JavaScript functions.
 To start, let's try re-writing this JavaScript function in Python:
 
 ```js
-function myFunction(param) {
-  console.log("Running myFunction");
-  return param + 1;
-}
+3
 ```
 
 As a quick recap of the syntax here:
